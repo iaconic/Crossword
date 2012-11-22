@@ -1,0 +1,236 @@
+29
+24
+1
+4
+0
+across
+stereoscopic
+type of vision that allows for 'depth perception'
+3
+21
+0
+across
+galen
+'Physician to the Gladiators'
+17
+0
+8
+down
+seventy
+percentage of the population that have the normal arrangement of internal organs
+24
+28
+10
+down
+schleiden
+one of the two developers of the "Cell Theory"
+38
+7
+23
+across
+function
+'for follows ____'
+2
+5
+0
+down
+theory
+an explanatory statement or set of statements derived from facts, laws, and confirmed hypotheses
+8
+1
+3
+across
+anabolism
+class of metabolic reactions in which relatively complex molecules are synthesized from smaller ones
+5
+7
+2
+down
+tissue
+mass of similar cells and cell products that forms a discrete region of an organ and performs specific functions
+6
+10
+2
+across
+hippocrates
+"Father of Medicine"
+14
+6
+7
+across
+reductionism
+theory that states that a large, complex system can be understood by studying its simpler components
+18
+0
+9
+across
+eponyms
+anatomical names coined from names of people
+14
+6
+7
+down
+responsiveness
+the ability to detect and react to simuli
+12
+2
+6
+down
+sonography
+medical imaging technique you would use to evaluate fetal age and development
+21
+6
+10
+across
+positive
+type of feedback loop that moves the condition further from the set point
+13
+4
+7
+down
+physiology
+the study of function
+19
+9
+9
+down
+differentiation
+the transformation of cells with no specialized function into cells that are committed to a particular task
+7
+17
+2
+down
+anatomy
+the study of structure
+11
+15
+5
+across
+pet
+acronym for Positron Emission Tomography scan
+37
+8
+21
+across
+bipedalism
+standing and walking on two legs
+27
+17
+14
+down
+organism
+a single, complete individual
+35
+0
+19
+across
+sapiens
+our own species; Homo ____
+34
+1
+18
+down
+latin
+Language of Anatomy comes from Greek and ____
+32
+3
+17
+down
+stimuli
+changes in the environment
+26
+8
+13
+across
+receptor
+part of a feedback loop that detects changes in the body
+22
+11
+10
+down
+inversus
+anatomical variation in which the organs of the thoracic and abdominal cavities are reversed between right and left; situs ____
+20
+13
+9
+down
+negative
+type of feedback loop that moves the condition closer to the setpoint
+36
+13
+19
+across
+vestigial
+organs that were better developed and more functional in the ancestors of a species
+28
+19
+14
+down
+setpoint
+in homeostasis, the average value for a given variable (2 words)
+33
+21
+17
+down
+cells
+smallest units of an organism that carry out all the basic functions of life
+30
+19
+15
+across
+effector
+part of a feedback loop that carries out the final corrective action
+29
+25
+14
+down
+hooke
+improved the compound microscope; named 'cells'; Robert ____
+31
+23
+15
+down
+cannon
+coined the phrase 'homeostasis'; Walter ____
+25
+21
+12
+across
+darwin
+probably the most influential biologist that ever lived; Charles ____; his name is related to 'evolution'
+16
+22
+7
+down
+opposable
+type of thumbs that allow primates to cross the palm to touch the fingertips
+23
+19
+10
+across
+hypothesis
+an educated speculation or possible answer to a question
+15
+21
+7
+across
+holism
+theory that there are 'emergent properties' of the whole organism that cannot be predicted from the properties of its separate parts; the human body is more than the sum of their parts
+10
+26
+4
+down
+atoms
+smallest particles with unique chemical identities
+9
+20
+4
+across
+arboreal
+treetop habitat
+4
+24
+0
+down
+entero
+combining form that means 'small intestine'

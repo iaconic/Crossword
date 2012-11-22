@@ -1,0 +1,230 @@
+26
+26
+1
+12
+0
+across
+antebrachial
+forearm region
+8
+6
+4
+across
+plane
+an imaginary flat surface passing through the body
+9
+15
+4
+across
+frontal
+vertical plane that divides the body or organ into anterior and posterior portions; coronal plane
+10
+3
+6
+across
+epigastric
+one of the nine abdominal regions; lies directly superior to the umbilical region
+11
+20
+6
+across
+supine
+person lying face up
+12
+8
+8
+across
+umbilical
+central-most of the nine regions of the abdomen; contains the naval
+16
+0
+11
+across
+prone
+person lying face down
+17
+13
+11
+across
+posterior
+the directional term opposite 'anterior'
+18
+4
+12
+across
+medial
+directional term opposite 'lateral'
+19
+12
+13
+across
+lateral
+directional term meaning going away from the diaphragm
+21
+4
+15
+across
+abdominal
+region of the trunk below the diaphragm
+24
+14
+15
+across
+anterior
+directional term that denotes the region of the body that leads the way in normal locomotion
+28
+16
+18
+across
+superior
+directional term opposite 'inferior'
+30
+7
+19
+across
+tarsal
+ankle region
+31
+18
+20
+across
+distal
+directional term of the limbs farther from the point of attachment or origin
+32
+10
+21
+across
+thoracic
+region of the trunk above the diaphragm
+33
+2
+23
+across
+ipsilateral
+directional term opposite 'contralateral'
+34
+20
+23
+across
+pedal
+foot region
+35
+12
+25
+across
+umbilicus
+dividing the abdominal region into quadrants requires two perpendicular lines intersecting at the ____ (naval)
+1
+12
+0
+down
+axial
+major body region consisting of the head, neck, and trunk
+2
+18
+0
+down
+appendicular
+major body region consisting of the upper and lower limbs
+3
+25
+0
+down
+transverse
+horizontal plane that divides the body or organ into superior and inferior portions
+4
+23
+2
+down
+proximal
+directional term opposite 'distal'
+5
+4
+3
+down
+carpal
+wrist region
+6
+9
+3
+down
+anatomical
+a stance in which a person stands erect with the feet flat on the floor and close together, arms at the sides, and the palms and face directed forward; ____ position
+7
+16
+3
+down
+crural
+leg region
+11
+20
+6
+down
+section
+an actual cut or slice to reveal internal anatomy
+13
+0
+9
+down
+supinated
+forearm in anatomical position; palms rotated anteriorly
+14
+4
+10
+down
+femoral
+thigh region
+15
+14
+10
+down
+contralateral
+on opposite sides of the body
+20
+2
+15
+down
+superficial
+directional term opposite 'deep'
+22
+6
+15
+down
+deep
+directional term meaning going farther from the body surfact internally
+23
+8
+15
+down
+midsagittal
+sagittal plane that divides the body or organ into equal halves; median plane
+25
+19
+15
+down
+inferior
+directional term of the trunk that means below
+26
+22
+16
+down
+pronated
+forearm position in which the palms face posteriorly
+27
+11
+17
+down
+brachial
+upper arm region
+28
+16
+18
+down
+sagittal
+plane that passes vertically through the body or organ that divides it into right and left portions
+29
+4
+19
+down
+manus
+hand region

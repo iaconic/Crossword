@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/CameraRotation.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/Game/Game.cs" Line="94" Column="69" />
+      <File FileName="Assets/Resources/Scripts/CameraRotation.cs" Line="57" Column="19" />
+      <File FileName="Assets/Resources/Scripts/Game/GUI/PageButton.cs" Line="4" Column="18" />
+      <File FileName="Assets/Resources/Scripts/Game/GUI/Button.cs" Line="10" Column="70" />
+      <File FileName="Assets/Resources/Scripts/Game/GUI/GameMenu.cs" Line="27" Column="31" />
+      <File FileName="Assets/Resources/Scripts/Game/GUI/Scoreboard.cs" Line="23" Column="31" />
+      <File FileName="Assets/Resources/Scripts/Game/Puzzle/Word.cs" Line="1" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Game/Puzzle/Letter.cs" Line="80" Column="1" />
+      <File FileName="Assets/Resources/Scripts/Game/TextToGame.cs" Line="32" Column="141" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

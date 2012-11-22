@@ -1,0 +1,122 @@
+29
+24
+1
+4
+0
+across
+stereoscopic
+type of vision that allows for 'depth perception'
+3
+21
+0
+across
+galen
+'Physician to the Gladiators'
+17
+0
+8
+down
+seventy
+percentage of the population that have the normal arrangement of internal organs
+24
+28
+10
+down
+schleiden
+one of the two developers of the "Cell Theory"
+38
+7
+23
+across
+function
+'for follows ____'
+2
+5
+0
+down
+theory
+an explanatory statement or set of statements derived from facts, laws, and confirmed hypotheses
+8
+1
+3
+across
+anabolism
+class of metabolic reactions in which relatively complex molecules are synthesized from smaller ones
+5
+7
+2
+down
+tissue
+mass of similar cells and cell products that forms a discrete region of an organ and performs specific functions
+6
+10
+2
+across
+hippocrates
+"Father of Medicine"
+14
+6
+7
+across
+reductionism
+theory that states that a large, complex system can be understood by studying its simpler components
+18
+0
+9
+across
+eponyms
+anatomical names coined from names of people
+14
+6
+7
+down
+responsiveness
+the ability to detect and react to simuli
+12
+2
+6
+down
+sonography
+medical imaging technique you would use to evaluate fetal age and development
+21
+6
+10
+across
+positive
+type of feedback loop that moves the condition further from the set point
+13
+4
+7
+down
+physiology
+the study of function
+19
+9
+9
+down
+differentiation
+the transformation of cells with no specialized function into cells that are committed to a particular task
+7
+17
+2
+down
+anatomy
+the study of structure
+11
+15
+5
+across
+pet
+acronym for Positron Emission Tomography scan
+37
+8
+21
+across
+bipedalism
+standing and walking on two legs
+27
+17
+14
+down
+organism
+a single, complete individual
